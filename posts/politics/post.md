@@ -1,5 +1,5 @@
 # blog-posts
-Test
+Politics
 Proin non laoreet orci, at maximus lacus. Phasellus condimentum, turpis vel consequat scelerisque, quam enim elementum elit, eget tempus nisl turpis quis arcu. Pellentesque id commodo neque. In hac habitasse platea dictumst. Integer aliquam quis est vel fringilla. Nullam nulla nisi, mattis vel turpis vitae, euismod sodales mauris. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum varius ex nec felis posuere scelerisque.
 
 Vivamus ac elementum libero, nec bibendum mi. Nam euismod mauris quis odio egestas euismod et quis nisi. Aenean placerat quis ante vel vestibulum. Vivamus ac tellus quis quam elementum finibus. Sed imperdiet, magna vel commodo dapibus, sapien purus consectetur mi, at maximus neque dui vitae diam. Sed sit amet vestibulum felis. Suspendisse pretium mauris elit. Cras convallis cursus enim vel efficitur. Praesent tempus arcu orci, at aliquet nunc egestas at. Nam porta laoreet felis.
